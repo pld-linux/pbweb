@@ -7,8 +7,8 @@ Vendor:		Even Balance, Inc.
 License:	PB EULA
 Group:		Applications/Games
 Source0:	http://www.evenbalance.com/downloads/%{name}.x86
+# NoSource0-md5: 967e3f2e05e8a6b3ec1b4183746b8b2e
 NoSource:	0
-BuildRequires:	coreutils
 URL:		http://www.evenbalance.com/
 ExclusiveArch:	%{ix86}
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
