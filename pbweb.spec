@@ -1,13 +1,13 @@
 Summary:	The PunkBuster update tool
 Summary(pl):	Narzêdzie do aktualizacji PunkBustera
 Name:		pbweb
-Version:	1.8
+Version:	2.0
 Release:	1
 Vendor:		Even Balance, Inc.
 License:	PB EULA
 Group:		Applications/Games
 Source0:	http://www.evenbalance.com/downloads/%{name}.x86
-# NoSource0-md5: 967e3f2e05e8a6b3ec1b4183746b8b2e
+# NoSource0-md5:	967e3f2e05e8a6b3ec1b4183746b8b2e
 NoSource:	0
 URL:		http://www.evenbalance.com/
 ExclusiveArch:	%{ix86}
