@@ -1,5 +1,5 @@
 Summary:	The PunkBuster update tool
-Summary(pl):	NarzÍdzie do aktualizacji PunkBustera
+Summary(pl.UTF-8):   Narzƒôdzie do aktualizacji PunkBustera
 Name:		pbweb
 Version:	2.2
 Release:	1
@@ -20,11 +20,11 @@ PunkBuster(TM), spawned the Anti-Cheat movement in online gaming
 several years ago and was the first system proven effective against
 cheating in online games.
 
-%description -l pl
-Even Balance, Inc. przoduje w wysi≥kach na rzecz walki z oszustami w
-przemy∂le gier online dla wielu graczy. Ich flagowy produkt,
-PunkBuster(TM), zrodzi≥ kilka lat temu ruch przeciwdzia≥ania oszustom
-w dziedzinie gier online i okaza≥ siÍ pierwszym efektywnym systemem
+%description -l pl.UTF-8
+Even Balance, Inc. przoduje w wysi≈Çkach na rzecz walki z oszustami w
+przemy≈õle gier online dla wielu graczy. Ich flagowy produkt,
+PunkBuster(TM), zrodzi≈Ç kilka lat temu ruch przeciwdzia≈Çania oszustom
+w dziedzinie gier online i okaza≈Ç siƒô pierwszym efektywnym systemem
 przeciwko oszustwom w grach online.
 
 %prep
