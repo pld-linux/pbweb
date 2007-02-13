@@ -1,5 +1,5 @@
 Summary:	The PunkBuster update tool
-Summary(pl.UTF-8):   Narzędzie do aktualizacji PunkBustera
+Summary(pl.UTF-8):	Narzędzie do aktualizacji PunkBustera
 Name:		pbweb
 Version:	2.2
 Release:	1
